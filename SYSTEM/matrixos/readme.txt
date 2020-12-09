@@ -1,0 +1,3 @@
+matrix是一个最顶层的文件包，头文件引用包
+下方的globalspace是一个数据结构包，包括全局数据和局部数据
+matrixos_core是一个整合的定时器资源包 其中会用到globalspace中的数据结构类型 
